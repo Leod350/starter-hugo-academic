@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.xmheart.com/index?isEnglish=true'
     company_logo: org-xmheart
     location: Xiamen, China
-    date_start: '2020'
+    date_start: '2020-10-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -41,8 +41,8 @@ experience:
     company_url: 'https://www.ucsd.edu'
     company_logo: org-ucsd
     location: San Diego, USA
-    date_start: '2013'
-    date_end: '2020'
+    date_start: '2013-01-01'
+    date_end: '2020-09-01'
     description: Taught electronic engineering and researched semiconductor physics.
 
 design:
