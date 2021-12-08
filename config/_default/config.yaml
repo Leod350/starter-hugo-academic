@@ -5,7 +5,7 @@
 
 title:  # Website name
 baseurl: 'https://www.heartren.com/' # Website URL
-copyright: '© {2021} Jie Ren' # Footer text, e.g. '© {year} Me'
+copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
