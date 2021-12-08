@@ -25,7 +25,7 @@ experience:
   - title: Institute Investigator
     company: Xiamen Cardiovascular Institute
     company_url: 'https://www.xmheart.com/index?isEnglish=true'
-    company_logo: org-xmheart
+    company_logo: 
     location: Xiamen, China
     date_start: '2020-10-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Postdoc Research Scholar
     company: University of California, San Diego
     company_url: 'https://www.ucsd.edu'
-    company_logo: org-ucsd
+    company_logo: 
     location: San Diego, USA
     date_start: '2013-01-01'
     date_end: '2020-09-01'
