@@ -18,7 +18,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Xiamen University
+  - name: Xiamen Cardiovascular Institute, Xiamen Cardiovascular Hospital, Xiamen University
     url: https://en.xmu.edu.cn/
 education:
   courses:
